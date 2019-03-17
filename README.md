@@ -1,4 +1,4 @@
-## E ACreator
+## EACreator
 
 A Simple tool to create multiple accounts in no time..
 Requirements - [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,[geodrive.exe](https://github.com/mozilla/geckodriver/releases) by Mozilla
