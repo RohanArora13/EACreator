@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## EACreator
 
-You can use the [editor on GitHub](https://github.com/RohanArora13/EACreator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Simple tool to create multiple accounts in no time..
+Requirements - [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,[geodrive.exe](https://github.com/mozilla/geckodriver/releases) by Mozilla
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Steps to follow
 
-### Markdown
+**1.** Run the program Wait for browser to open
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2.** Dont Touch the browser or CLICK inside browser    _"you can minimize it"_
 
-```markdown
-Syntax highlighted code block
+**3.** IF recaptcha Appears Solve it and click 'Next'    _"a sound will ring"_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RohanArora13/EACreator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**4.** all account details are saved in eaacount.txt
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Program? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
