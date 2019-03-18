@@ -15,6 +15,9 @@ Latest version **[1]**
 
 **4.** all account details are saved in eaacount.txt
 
+### Disclaimer
+_“rohan arora assumes no responsibility or liability for any errors or omissions in the content of this program. The information contained in this program is provided on an “as is” basis with no guarantees of completeness, accuracy, usefulness or timeliness.i am not responsible for any action,activty or use via this program”_
+
 ### Support or Contact
 
 Having trouble with Program? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
