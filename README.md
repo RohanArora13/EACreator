@@ -4,6 +4,8 @@ A Simple tool to create multiple accounts in no time..
 Requirements - [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,[geodrive.exe](https://github.com/mozilla/geckodriver/releases) by Mozilla
 
 Latest version **[1]**
+### UI
+![alt text](https://raw.githubusercontent.com/RohanArora13/EACreator/master/images/1.png)
 
 ### Steps to follow
 
